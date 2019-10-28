@@ -1,0 +1,6 @@
+[submodule "AndroidProject"]
+	path = AndroidProject
+	url = https://github.com/georgevio/AndroidProject
+[submodule "android"]
+	path = android
+	url = https://github.com/georgevio/android/
