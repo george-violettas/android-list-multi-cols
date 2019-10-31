@@ -9,7 +9,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
+//George
     EditText etFirstName,etLastName,etFavFood;
     Button btnAdd,btnView;
     DatabaseHelper myDB;
