@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/android-list-multi-cols.iml" filepath="$PROJECT_DIR$/android-list-multi-cols.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/android-list-multi-cols-app.iml" filepath="$PROJECT_DIR$/app/android-list-multi-cols-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidTeach-android-list-multi-cols.iml" filepath="$PROJECT_DIR$/androidTeach-android-list-multi-cols.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
